@@ -1,0 +1,15 @@
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\bin\Debug\net8.0\bt-chuoi.exe
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\bin\Debug\net8.0\bt-chuoi.deps.json
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\bin\Debug\net8.0\bt-chuoi.runtimeconfig.json
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\bin\Debug\net8.0\bt-chuoi.dll
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\bin\Debug\net8.0\bt-chuoi.pdb
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.AssemblyInfoInputs.cache
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.AssemblyInfo.cs
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.csproj.CoreCompileInputs.cache
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.sourcelink.json
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.dll
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\refint\bt-chuoi.dll
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.pdb
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\bt-chuoi.genruntimeconfig.cache
+D:\GitHub\Thuc-hanh-dotnet\bt-chuoi\obj\Debug\net8.0\ref\bt-chuoi.dll
