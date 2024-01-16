@@ -1,0 +1,15 @@
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\bin\Debug\net8.0\bt-enum.exe
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\bin\Debug\net8.0\bt-enum.deps.json
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\bin\Debug\net8.0\bt-enum.runtimeconfig.json
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\bin\Debug\net8.0\bt-enum.dll
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\bin\Debug\net8.0\bt-enum.pdb
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.AssemblyInfoInputs.cache
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.AssemblyInfo.cs
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.csproj.CoreCompileInputs.cache
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.sourcelink.json
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.dll
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\refint\bt-enum.dll
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.pdb
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\bt-enum.genruntimeconfig.cache
+D:\GitHub\Thuc-hanh-dotnet\bt-enum\obj\Debug\net8.0\ref\bt-enum.dll

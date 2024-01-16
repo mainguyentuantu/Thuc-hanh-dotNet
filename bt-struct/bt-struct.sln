@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bt-struct", "bt-struct.csproj", "{B6CF0C40-F5A1-44D7-9DA3-99A5F29B5FA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt-enum", "..\bt-enum\bt-enum.csproj", "{1C10EE22-4A62-4B58-A2BA-9F9C3A5433FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B6CF0C40-F5A1-44D7-9DA3-99A5F29B5FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6CF0C40-F5A1-44D7-9DA3-99A5F29B5FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6CF0C40-F5A1-44D7-9DA3-99A5F29B5FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C10EE22-4A62-4B58-A2BA-9F9C3A5433FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C10EE22-4A62-4B58-A2BA-9F9C3A5433FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C10EE22-4A62-4B58-A2BA-9F9C3A5433FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C10EE22-4A62-4B58-A2BA-9F9C3A5433FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
