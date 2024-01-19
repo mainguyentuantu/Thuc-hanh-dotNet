@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bt-enum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aea19bb0a085f821958d1192330a2fb885b4409")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39578edba4d1ad1f6badfe289c78284c11f23446")]
 [assembly: System.Reflection.AssemblyProductAttribute("bt-enum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bt-enum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
