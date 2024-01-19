@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bt-generic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1099bd9c654eda3af35405c4933a3f5db4157cca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("bt-generic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bt-generic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
