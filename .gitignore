@@ -14,7 +14,8 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-
+*.sln
+*.csproj
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
@@ -416,3 +417,4 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode
+/bt-event/bt-event.sln
