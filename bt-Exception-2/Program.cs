@@ -39,6 +39,7 @@ namespace btngoaile
             catch (Exception e2)
             {
                 Console.WriteLine(e2.Message);
+                Console.WriteLine(e2.GetType().Name);
             }
             
             finally { Console.WriteLine("Ket Thuc!"); }
