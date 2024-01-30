@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btLinQ", "btLinQ.csproj", "{959C246A-F6EF-4B42-8694-1223135637FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959C246A-F6EF-4B42-8694-1223135637FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959C246A-F6EF-4B42-8694-1223135637FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959C246A-F6EF-4B42-8694-1223135637FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959C246A-F6EF-4B42-8694-1223135637FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46BB7D50-E95D-4528-9666-4D04F5E46A3E}
+	EndGlobalSection
+EndGlobal
